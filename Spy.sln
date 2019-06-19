@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spy", "Spy\Spy.csproj", "{07DF7786-4FD8-43AD-92ED-DB35B271AC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spy.Test", "Spy.Test\Spy.Test.csproj", "{B35ACFFF-5400-4752-841B-E2EB7E8C2A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spy.Assemblies", "Spy.Assemblies\Spy.Assemblies.csproj", "{6ED56B16-3C90-4FDC-A6C7-3782CDF36F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DF7786-4FD8-43AD-92ED-DB35B271AC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DF7786-4FD8-43AD-92ED-DB35B271AC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DF7786-4FD8-43AD-92ED-DB35B271AC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DF7786-4FD8-43AD-92ED-DB35B271AC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35ACFFF-5400-4752-841B-E2EB7E8C2A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35ACFFF-5400-4752-841B-E2EB7E8C2A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35ACFFF-5400-4752-841B-E2EB7E8C2A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35ACFFF-5400-4752-841B-E2EB7E8C2A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED56B16-3C90-4FDC-A6C7-3782CDF36F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED56B16-3C90-4FDC-A6C7-3782CDF36F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED56B16-3C90-4FDC-A6C7-3782CDF36F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED56B16-3C90-4FDC-A6C7-3782CDF36F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A05875-DB33-4B13-BD88-40AD84A44A58}
+	EndGlobalSection
+EndGlobal
